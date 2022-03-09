@@ -1,0 +1,16 @@
+{
+  "qInfo": {
+    "qId": "d5ee73f2-ebd3-4774-a90b-b5a00f511312",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vCaio",
+  "qComment": "ppppp",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "10",
+  "tags": []
+}
